@@ -9,7 +9,7 @@ blog({
     { title: "Email", url: "mailto:phocks@gmail.com" },
     { title: "GitHub", url: "https://github.com/phocks" },
   ],
-  background: "#efebe9",
+  background: "#eee",
   middlewares: [
     ga("UA-91675022-1"),
     redirects({
