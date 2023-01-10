@@ -1,6 +1,4 @@
-![](../posts/screenshot.png)
-
-# Ryan's Blog
+# Josh's blog on Deno
 
 Deployments in less than 10 seconds.
 
