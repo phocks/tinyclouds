@@ -12,10 +12,10 @@ blog({
   ],
   background: "#9ee",
   middlewares: [
-    ga("UA-91675022-1"),
-    redirects({
-      "iocp-links.html": "iocp_links",
-      "rant.html": "rant",
-    }),
+    // ga("UA-91675022-1"),
+    // redirects({
+    //   "iocp-links.html": "iocp_links",
+    //   "rant.html": "rant",
+    // }),
   ],
 });
