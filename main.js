@@ -8,6 +8,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:phocks@gmail.com" },
     { title: "GitHub", url: "https://github.com/phocks" },
+    { title: "Mastodon", url: "https://bne.social/@phocks" },
   ],
   background: "#9ee",
   middlewares: [
